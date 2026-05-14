@@ -61,7 +61,7 @@ tableau-airbnb-analysis/
 
 
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Images/Dashboard_preview.png)
 
 
 ---
